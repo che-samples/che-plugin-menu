@@ -31,7 +31,7 @@
         <connection>scm:git:git@github.com:che-samples/che-plugin-menu.git</connection>
         <developerConnection>scm:git:git@github.com:che-samples/che-plugin-menu.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/eclipse/che-lib</url>
+        <url>https://github.com/che-samples/che-plugin-menu</url>
     </scm>
     <properties>
         <che.version>6.0.0-M5-SNAPSHOT</che.version>
